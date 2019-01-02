@@ -1,0 +1,22 @@
+RubyGems is a package manager for the Ruby Programming language
+
+It stores self contained ruby libraries
+
+its syntax is quite simple:
+
+gem install gemName
+
+gem uninstall gemName
+
+gem list --local
+
+gem list --remote
+
+gem rdoc --all
+
+gem fetch gemName
+
+gem search STRING
+
+
+DRY principal--- dont repeat yourself
