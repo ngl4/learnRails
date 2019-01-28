@@ -1,5 +1,9 @@
 # README
 
+Here is the tutorials I followed: 
+
+1) Set up First Rails App: https://www.youtube.com/watch?v=fP64Wvz13AM
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
